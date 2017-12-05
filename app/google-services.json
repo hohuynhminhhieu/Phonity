@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "123107963963",
+    "firebase_url": "https://phonity-d63e0.firebaseio.com",
+    "project_id": "phonity-d63e0",
+    "storage_bucket": "phonity-d63e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123107963963:android:acac9ad3dea56f8d",
+        "android_client_info": {
+          "package_name": "com.rcd.phonity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "123107963963-ic39qhfi8r0tkchap86kv9t4t10vd1f7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rcd.phonity",
+            "certificate_hash": "fec08d90b21ffc69185a93683356df53dbb2fa91"
+          }
+        },
+        {
+          "client_id": "123107963963-8io19kiflfrqifd58qqq4pneccqbn4pn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rcd.phonity",
+            "certificate_hash": "66911d839c32c54783befcdc740044ac9f653edc"
+          }
+        },
+        {
+          "client_id": "123107963963-0rpn06fsb9vj9qjt1904br6leevshltb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnikFrzrTW77TSPejpLKZOB11_Gcc6-Ig"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "123107963963-0rpn06fsb9vj9qjt1904br6leevshltb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://E:\android\appalarm-master(1)\appalarm-master\Alarm.iml" filepath="E:\android\appalarm-master(1)\appalarm-master\Alarm.iml" />
+      <module fileurl="file://E:\android\Phonity\My-Shop-master.iml" filepath="E:\android\Phonity\My-Shop-master.iml" />
       <module fileurl="file://$PROJECT_DIR$/Phonity.iml" filepath="$PROJECT_DIR$/Phonity.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://E:\android\Phonity\app\app.iml" filepath="E:\android\Phonity\app\app.iml" />
+      <module fileurl="file://E:\android\My-Shop-master\appalarm-master.iml" filepath="E:\android\My-Shop-master\appalarm-master.iml" />
     </modules>
   </component>
 </project>
